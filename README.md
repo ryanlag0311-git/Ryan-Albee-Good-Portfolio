@@ -2,7 +2,7 @@
 Hello, my name is Ryan Albee-Good and I have been developing games for over six years. Below are some of the games I have worked on, primarily being either game jams or group projects.
 
 # Silent Numbers
-<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/c336078d-f769-4235-990f-1f38e3984f23" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/14ed7a9a-0192-4e36-a2c0-bf9bca1bcbd0" />
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/5bca30f4-ab33-495a-993a-e3f97549c834" />
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/b248f76e-8383-4ce5-a896-325a26d39654" />
 
