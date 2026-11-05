@@ -1,5 +1,5 @@
 # Introduction:
-Hello, my name is Ryan Albee-Good and I have been developing games for over six years. Below are some of the games I have worked on, primarily being either game jams or group projects.
+Hello, my name is Ryan Albee-Good and I have been developing games for over 5 years. Below are some of the games I have worked on, primarily being either game jams or group projects.
 
 # Silent Numbers
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/b8a0983f-481b-4a9b-94e7-0868dd6f6a5d" />
