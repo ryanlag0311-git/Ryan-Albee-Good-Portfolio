@@ -16,6 +16,7 @@ Silent Numbers is a narrative focused psychological horror, currently in ongoing
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/1d394449-3a42-4cc5-8a8d-b63b5429f9f6" />
 
 Itch.io Link: https://reebit.itch.io/final-machination
+
 GitHub Link: https://github.com/Latuan-Git/Final-Machination
 
 Final Machination was made for Godot Wild Jam #96 which lasted from August 14th to August 23rd, 2026. For this game jam, I intended to make a strategic and engaging Roguelike which focused on balancing the spending and gaining of the primary resource, "Charge". For this, I created many units, each with unique art, abilities, costs, and even damage types and resistances, all with the intention of creating a game with replayability. However, I failed to account for how long each unit would take to fully create and customize, and more specifically, how time consuming animating all of them uniquely would take. That time spent animating left me with little time to fully flesh out the balance or the rest of the mechanics of the game, leading to a lack of sound and unfinished level backgrounds. All these flaws would leave this game coming in 179th out of 183 entries. This game still serves as a lesson to me to carefully keep track of exactly how much time I should be spending on a game, and to make the experience enjoyable first before focusing on the details.
@@ -26,6 +27,7 @@ Final Machination was made for Godot Wild Jam #96 which lasted from August 14th 
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/b60a736a-93d0-465c-811f-645b2f31ee8c" />
 
 Itch.io Link: https://reebit.itch.io/eat-up
+
 GitHub Link: https://github.com/Latuan-Git/Eat-Up
 
 Eat Up! was made for Jerbob's SILLY Jam, a game jam that lasted two days from March 27th to March 29th, 2026. It focused on creating more lighthearted and casual games and was aimed towards newer game developers. While not the first game I had ever created for a game jam, it marked the first time I submitted my game officially, as in the past I've simply created prototypes without properly submitting my game.
@@ -35,5 +37,7 @@ The game only has about 1-2 minutes of arcade styled gameplay, featuring a simpl
 # Ghost Shepard
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/9c41a987-12f7-404a-8c8f-5a939bd07948" />
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/3a9d8d31-68fb-4035-b6f7-4ae72a0cb6e1" />
+
+GitHub Link: https://github.com/Latuan-Git/Ghost-Shepard
 
 Ghost Shepard is an ongoing project I'm working on for the Doan Digital 1st Annual Game Jam. It will be running from October 1st to December 1st, 2026 and currently has over 500 participants. With this long of a development period compared to the other jams I've participated in, I'm looking to put everything I've learned from my previous experiences to make my best solo game yet. I've focused on making simple systems that can be expanded into unique experiences without adding too much development time.
