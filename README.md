@@ -2,18 +2,18 @@
 Hello, my name is Ryan Albee-Good and I have been developing games for over six years. Below are some of the games I have worked on, primarily being either game jams or group projects.
 
 # Silent Numbers
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/c336078d-f769-4235-990f-1f38e3984f23" />
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/5bca30f4-ab33-495a-993a-e3f97549c834" />
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/b248f76e-8383-4ce5-a896-325a26d39654" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/c336078d-f769-4235-990f-1f38e3984f23" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/5bca30f4-ab33-495a-993a-e3f97549c834" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/b248f76e-8383-4ce5-a896-325a26d39654" />
 
 Steam Page: https://store.steampowered.com/app/4234110/Silent_Numbers/
 
 Silent Numbers is a narrative focused psychological horror, currently in ongoing development with over 400 wishlists on Steam. I began work on it in May of 2025 and have been the lead programmer for Studio T12 ever since. This game has led to my biggest growth as a programmer and a developers I'm constantly being forced to improve myself and meet new challenges, all while maintaining a consistent and stable code base and listening to player feedback. Every week I spend time fixing bugs as they arise, implementing new content and refactoring any outdated systems that no longer fir the direction of the game. It has also been the most rewarding project I've worked on, as for the first time I'm seeing a community build around something that I play a part in creating.
 
 # Final Machination
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/52dae74a-2a5b-4aff-b3da-31704246ae22" />
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/ccea8e36-a6a9-40d7-8e20-00d170a54a2b" />
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/1d394449-3a42-4cc5-8a8d-b63b5429f9f6" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/52dae74a-2a5b-4aff-b3da-31704246ae22" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/ccea8e36-a6a9-40d7-8e20-00d170a54a2b" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/1d394449-3a42-4cc5-8a8d-b63b5429f9f6" />
 
 Itch.io Link: https://reebit.itch.io/final-machination
 
@@ -21,8 +21,8 @@ Final Machination was made for Godot Wild Jam #96 which lasted from August 14th 
 
 
 # Eat Up!
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/345d4089-9fd6-4b2b-8208-ef508ae005b7" />
-<img width="1340" height="1000" alt="image" src="https://github.com/user-attachments/assets/b60a736a-93d0-465c-811f-645b2f31ee8c" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/345d4089-9fd6-4b2b-8208-ef508ae005b7" />
+<img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/b60a736a-93d0-465c-811f-645b2f31ee8c" />
 
 Itch.io Link: https://reebit.itch.io/eat-up
 
