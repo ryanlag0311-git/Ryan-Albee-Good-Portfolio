@@ -34,10 +34,10 @@ Eat Up! was made for Jerbob's SILLY Jam, a game jam that lasted two days from Ma
 
 The game only has about 1-2 minutes of arcade styled gameplay, featuring a simple loop of chasing creatures and eating them before time runs out. While not mechanically in depth, the simplicity of the game connected with players, with the game ranking 173rd out of 404 entries, and the appeal ranking 120th. This game was the first time I fully put together each part of a project, since my prototypes never usually get much farther than programming and in larger projects I work in teams. I learned how time consuming each part of development could be that I don't think about, like art, sound, UI and many others.
 
-# Ghost Shepard
+# Ghost Shepherd
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/9c41a987-12f7-404a-8c8f-5a939bd07948" />
 <img width="1340" height="720" alt="image" src="https://github.com/user-attachments/assets/3a9d8d31-68fb-4035-b6f7-4ae72a0cb6e1" />
 
-GitHub Link: https://github.com/Latuan-Git/Ghost-Shepard
+GitHub Link: https://github.com/Latuan-Git/Ghost-Shepherd
 
-Ghost Shepard is an ongoing project I'm working on for the Doan Digital 1st Annual Game Jam. It will be running from October 1st to December 1st, 2026 and currently has over 500 participants. With this long of a development period compared to the other jams I've participated in, I'm looking to put everything I've learned from my previous experiences to make my best solo game yet. I've focused on making simple systems that can be expanded into unique experiences without adding too much development time.
+Ghost Shepherd is an ongoing project I'm working on for the Doan Digital 1st Annual Game Jam. It will be running from October 1st to December 1st, 2026 and currently has over 500 participants. With this long of a development period compared to the other jams I've participated in, I'm looking to put everything I've learned from my previous experiences to make my best solo game yet. I've focused on making simple systems that can be expanded into unique experiences without adding too much development time.
